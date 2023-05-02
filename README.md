@@ -1,8 +1,8 @@
-# Gerador de QR Code em Python
+# Gerador de QR Code em Python 😀
 
 Este é um simples projeto em Python que permite gerar um QR Code a partir de um link fornecido pelo usuário. O projeto utiliza a biblioteca qrcode para criar o QR Code e a função input() para solicitar o link do usuário.
 
-### Como usar
+### Como usar 👨‍💻
 Para gerar o QR Code, basta executar o arquivo "qr_code.py" e inserir o link desejado quando solicitado. O arquivo de imagem gerado será salvo na mesma pasta onde o arquivo Python está localizado.
 
 ### Melhorias que irei implementar
